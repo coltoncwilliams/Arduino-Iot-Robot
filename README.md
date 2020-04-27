@@ -1,3 +1,5 @@
 # Arduino-Iot-Robot
-Little internet-controlled robot with screen
-<img src="./media/front 1.jpeg" alt="Screenshot" style="width:50%; transform: rotate(90deg);">
+## Little internet-controlled robot with screen
+![Image of Yaktocat] (./media/front 1.jpg)
+<br>
+<img src="./media/front 1.jpg" alt="Screenshot" style="width:50%;">
