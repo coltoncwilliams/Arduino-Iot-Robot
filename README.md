@@ -6,8 +6,8 @@ The nano is attached to a breadboard for easy connection to the motors and displ
 
 
 When booted up, the robot will display "connecting" and then an IP address for the user to go to, to access the website
-![Front-1](./media/front 1.jpg)
-![Front-2](./media/front 2.jpg)
+![Front-1](./media/front-1.jpg)
+![Front-2](./media/front-2.jpg)
 
 
 Screenshot of the website from a mobile device:
@@ -15,7 +15,7 @@ Screenshot of the website from a mobile device:
 
 
 When a user does connect, the robots face and text can be seen:
-![Front 3](./media/front 3.jpg)
+![Front 3](./media/front-3.jpg)
 
 [Here it is in action!](./media/controlling movement.MOV "Controlling Movement")
 
