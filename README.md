@@ -17,5 +17,5 @@ Screenshot of the website from a mobile device:
 When a user does connect, the robots face and text can be seen:
 ![Front 3](./media/front-3.jpg)
 
-[Here it is in action!](./media/controlling movement.MOV)
+[Here it is in action!](./media/controlling-movement.MOV)
 
