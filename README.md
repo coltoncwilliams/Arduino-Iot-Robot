@@ -10,6 +10,7 @@ When booted up, the robot will display "connecting" and then an IP address for t
 ![Front-2](./media/front-2.jpg)
 
 
+The website will appear on a local IP address, using GET commands to control the robot. With a static IP, port forwarding can be used to control it from anywhere!
 Screenshot of the website from a mobile device:
 ![Website](./media/website.png)
 
