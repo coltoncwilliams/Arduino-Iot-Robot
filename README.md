@@ -1,5 +1,5 @@
 # Arduino-Iot-Robot
-### This project documents a fun little robot with an OLED face that says whatever you want. It has a servo steering in the front and DC motor to drive, with an Arduino Nano 33 iot for brains
+### This project documents a fun little robot with an OLED face that says whatever you want. It has a servo steering in the front and DC motor to drive, with an Arduino Nano 33 iot for brains using the Adafruit GFX and WiFiNINA libraries
 
 The nano is attached to a breadboard for easy connection to the motors and display. The DC motor is attached to pin 4 with a PNP transister for more current, servo to pin 9, and display to A4 and A5. There is also a 4 AA battery pack on the back, connected to vin and ground pins for enough cuurent, as shown below:
 ![Top](./media/top.jpg)
